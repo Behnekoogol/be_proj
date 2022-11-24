@@ -8,4 +8,9 @@ for i in range(1,12):
 
 g = 10
 if g :
-    print('g')
+    print('g') 
+
+
+x = 10 
+for 
+
