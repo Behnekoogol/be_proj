@@ -1,5 +1,6 @@
-import numpy as np 
-np.array()
+ 
+from  .test import costumer
+
 
 
 for i in range(1,12):
@@ -12,5 +13,7 @@ if g :
 
 
 x = 10 
-for 
 
+
+class price():
+    pass 
